@@ -1,4 +1,4 @@
 jupyterlab
-fastai==2.5.0
+fastai
 voila
 ipywidgets
